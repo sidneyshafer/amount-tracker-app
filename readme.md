@@ -6,7 +6,7 @@ Install dependencies:
 ```
 npm install
 ```
-Run application:
+Run dev server:
 ```
 npm start
 ```
