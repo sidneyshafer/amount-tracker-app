@@ -1,5 +1,5 @@
-# Expense Tracker
-The [Expense Tracker](https://cosmic-chebakia-644d50.netlify.app) is a component based React JS application with CSS module styling to keep track of expenses. Users can add a new expense and filter them by year. I completed this project using Visual Studio Code in the React.js Complete Guide Udemy course.
+# [Expense Tracker](https://cosmic-chebakia-644d50.netlify.app)
+Created a component-based expense tracking application using Visual Studio Code, React, and CSS module styling.
 
 ## UI Design
 ![image](https://github.com/sidneyshafer/expense-tracker/assets/66838571/23a3d8ca-cc92-45e9-b5e2-f0b7a06e00b5)
