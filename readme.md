@@ -1,7 +1,7 @@
 # Expense Tracker
-Created a component-based expense tracking application using Visual Studio Code, React, and CSS module styling.
+A component-based expense tracking application using Visual Studio Code, React, and CSS module styling.
 
-## UI Design
+## User Interface Design
 ![image](https://github.com/sidneyshafer/expense-tracker/assets/66838571/23a3d8ca-cc92-45e9-b5e2-f0b7a06e00b5)
 
 ## Filter by year
