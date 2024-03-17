@@ -22,6 +22,18 @@ const DUMMY_EXPENSES = [
     amount: 450,
     date: new Date(2021, 5, 12),
   },
+  {
+    id: 'e5',
+    title: 'Book (Paper Back)',
+    amount: 9.89,
+    date: new Date(2022, 7, 8),
+  },
+  {
+    id: 'e6',
+    title: 'Text Books',
+    amount: 165.30,
+    date: new Date(2024, 1, 9),
+  },
 ];
 
 const App = () => {
